@@ -12,6 +12,7 @@ function isIsogram(str){
 	return new Set(str.toUpperCase()).size == str.length;
 }
 
+
 function isIsogram(str){
   var i, j;
   str = str.toLowerCase();
