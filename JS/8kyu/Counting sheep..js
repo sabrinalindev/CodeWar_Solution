@@ -25,3 +25,8 @@ function countSheeps(sheep) {
   return sum;
   
 }
+
+//solution 2
+// /function countSheeps(arrayOfSheeps) {
+//   return arrayOfSheeps.filter(Boolean).length;
+// }
